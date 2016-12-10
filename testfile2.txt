@@ -1,2 +1,0 @@
-testfile2.editcontent1
-testfile2.editcontent2
